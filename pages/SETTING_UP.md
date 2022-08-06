@@ -4,7 +4,7 @@
 
 ##### What you will need
 
-* The JDK
+* [The JDK](java_basics/jdk.md)
 * An IDE
 * Git
 * GitHub/GitLab account

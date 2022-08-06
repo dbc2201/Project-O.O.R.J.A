@@ -13,7 +13,7 @@
 * [Setting up a Java Development Environment.](pages/SETTING_UP.md)
 
 1. The Java Programming Language
-2. The JDK (Java Development Kit).
+2. [The JDK (Java Development Kit).](pages/java_basics/jdk.md)
 3. The JVM (Java Virtual Machine).
 4. The JRE (Java Runtime Environment).
 5. Creating the first `"Hello world!"` program in Java.
