@@ -10,7 +10,7 @@
 
 #### Java Basics (Syntax & Semantics)
 
-* Setting up a Java Development Environment.
+* [Setting up a Java Development Environment.](pages/SETTING_UP.md)
 
 1. The Java Programming Language
 2. The JDK (Java Development Kit).
