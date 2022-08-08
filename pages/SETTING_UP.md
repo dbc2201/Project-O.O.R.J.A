@@ -4,13 +4,13 @@
 
 ##### What you will need
 
+* An IDE (Integrated Development Environment)
 * [The JDK](java_basics/jdk.md)
-* An IDE
 * Git
 * GitHub/GitLab account
 
 ---
 
-##### Instructions
+##### Instructions for Installation
 
 * 
