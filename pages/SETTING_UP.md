@@ -4,7 +4,7 @@
 
 ##### What you will need
 
-* An IDE (Integrated Development Environment)
+* An IDE (Integrated Development Environment) ([IntelliJ IDEA](https://www.jetbrains.com/idea/) preferred)
 * [The JDK](java_basics/jdk.md)
 * Git
 * GitHub/GitLab account
@@ -23,4 +23,14 @@
 
 ##### Instructions for Installation
 
-1. 
+1. Open your favorite web browser (Chrome/Edge/Brave) on your computer and go to
+   [JetBrains' official website](https://www.jetbrains.com/).
+
+2. On the top, find the "human" icon and click it to create a new account, or sign in if you already have one.
+   ![JetBrains Website Header](resources/images/jetbrains_website_header.png)
+
+3. You will see this page, enter your email address in the box for **Create JetBrains Account**, then click on sign
+   up.  
+   ![JetBrains Website Sign-In Page](resources/images/jetbrains_sign_in_page.png)
+
+4. 
