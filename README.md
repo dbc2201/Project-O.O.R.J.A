@@ -16,7 +16,7 @@
 2. [The JDK (Java Development Kit).](pages/java_basics/jdk.md)
 3. The JVM (Java Virtual Machine).
 4. The JRE (Java Runtime Environment).
-5. Creating the first `"Hello world!"` program in Java.
+5. [Creating the first `"Hello world!"` program in Java.](pages/java_basics/hello_world.md)
 6. Data Types in Java (The 8 Java Primitive Types).
 7. Variables in Java.
 8. The `var` keyword in Java.
