@@ -27,7 +27,7 @@
 13. Control Statements in Java.
 14. Iteration Statements in Java.
 15. Using Command-Line Arguments in a Java program.
-16. The `String` class in Java.
+16. [The `String` class in Java.](pages/java_basics/strings.md)
 17. Using `varargs` (variable length-arguments) in a Java program.
 18. The `Scanner` class in Java.
 19. The `BufferedReader` class in Java.
