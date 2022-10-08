@@ -1,5 +1,5 @@
 
-### 
+### Automatic Type Promotion in Java
 
 ---
 
@@ -13,5 +13,4 @@
 
 #### Practice Programs
 
----# Java Basics
-
+---
