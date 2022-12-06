@@ -5,11 +5,12 @@
 ## pre-requisites
 
 * [Git](pre-requisites/git.md)
-* [Software Installation](pre-requisites/software-installation.md)
+* [Software Installation](programming-basics/page-1.md)
 
 ## programming-basics
 
-* [Java](programming-basics/java.md)
+* [Java](programming-basics/java/README.md)
+  * [What is Java?](programming-basics/java/what-is-java.md)
 
 ## Front-End Programming
 
@@ -31,3 +32,7 @@
 ## Programming Resources
 
 * [Glossary](programming-resources/glossary.md)
+
+## Latest News
+
+* [Page 1](latest-news/page-1.md)
