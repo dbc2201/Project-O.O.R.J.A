@@ -1,37 +1,37 @@
 # Project-O.O.R.J.A
 
-***
+---
 
-## Online Open-source Resources for Java Aficionados
+## <u>O</u>nline <u>O</u>pen-source <u>R</u>esources for <u>J</u>ava <u>A</u>ficionados
 
-***
+---
 
 ### Topics List
 
 #### Java Basics (Syntax & Semantics)
 
-* [Setting up a Java Development Environment.](broken-reference)
+* [Setting up a Java Development Environment.](pages/SETTING_UP.md)
 
-1. [The Java Programming Language](pages/java\_programming\_language.md)
+1. [The Java Programming Language](pages/java_programming_language.md)
 2. [The JDK (Java Development Kit).](pages/jdk.md)
 3. [The JVM (Java Virtual Machine).](pages/jvm.md)
 4. [The JRE (Java Runtime Environment).](pages/jre.md)
-5. [Creating the first `"Hello world!"` program in Java.](pages/hello\_world.md)
-6. [Data Types in Java (The 8 Java Primitive Types).](pages/java\_data\_types.md)
+5. [Creating the first `"Hello world!"` program in Java.](pages/hello_world.md)
+6. [Data Types in Java (The 8 Java Primitive Types).](pages/java_data_types.md)
 7. [Variables in Java.](pages/variables.md)
-8. [The `var` keyword in Java.](pages/var\_keyword.md)
-9. [Type Conversion & Casting in Java.](pages/type\_conversion.md)
+8. [The `var` keyword in Java.](pages/var_keyword.md)
+9. [Type Conversion & Casting in Java.](pages/type_conversion.md)
 10. Automatic Type Promotion in Java.
-11. [Operators in Java.](pages/java\_operators.md)
+11. [Operators in Java.](pages/java_operators.md)
 12. Arrays in Java.
 13. Control Statements in Java.
 14. Iteration Statements in Java.
-15. [Using Command-Line Arguments in a Java program.](pages/command\_line\_arguments.md)
+15. [Using Command-Line Arguments in a Java program.](pages/command_line_arguments.md)
 16. [The `String` class in Java.](pages/strings.md)
 17. [Using `varargs` (variable length-arguments) in a Java program.](pages/varargs.md)
-18. [The `Scanner` class in Java.](pages/java\_scanner\_class.md)
-19. [The `BufferedReader` class in Java.](pages/java\_buffferedreader\_class.md)
-20. [Controlling input and output in a Java program.](pages/input\_and\_output.md)
+18. [The `Scanner` class in Java.](pages/java_scanner_class.md)
+19. [The `BufferedReader` class in Java.](pages/java_buffferedreader_class.md)
+20. [Controlling input and output in a Java program.](pages/input_and_output.md)
 21. [Methods in Java.](pages/methods.md)
 
 #### Object-Oriented Programming in Java
