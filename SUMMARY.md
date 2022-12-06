@@ -2,35 +2,32 @@
 
 * [Project-O.O.R.J.A](README.md)
 
+## pre-requisites
+
+* [Git](pre-requisites/git.md)
+* [Software Installation](pre-requisites/software-installation.md)
+
 ## programming-basics
 
-* [Page 9](programming-basics/page-9.md)
-* [Page 1](programming-basics/page-1.md)
+* [Java](programming-basics/java.md)
 
-## Java
+## Front-End Programming
 
-* [Page 2](java/page-2.md)
+* [HTML5](front-end-programming/html5.md)
+* [CSS3](front-end-programming/css3.md)
+* [Bootstrap](front-end-programming/bootstrap.md)
+* [JavaScript](front-end-programming/javascript.md)
+* [Node.js](front-end-programming/node.js.md)
+* [TypeScript](front-end-programming/typescript.md)
 
-## HTML
+## Back-End Programming
 
-* [Page 3](html/page-3.md)
+* [Spring Boot](back-end-programming/spring-boot.md)
 
-## CSS
+## Programming Practice
 
-* [Page 4](css/page-4.md)
+* [exercises](programming-practice/exercises.md)
 
-## JavaScript
+## Programming Resources
 
-* [Page 5](javascript/page-5.md)
-
-## TypeScript
-
-* [Page 6](typescript/page-6.md)
-
-## Angular
-
-* [Page 7](angular/page-7.md)
-
-## Spring
-
-* [Page 8](spring/page-8.md)
+* [Glossary](programming-resources/glossary.md)
