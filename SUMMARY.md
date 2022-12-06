@@ -9,8 +9,11 @@
 
 ## programming-basics
 
-* [Java](programming-basics/java/README.md)
-  * [What is Java?](programming-basics/java/what-is-java.md)
+* [Java](java/page-2.md)
+  * [Java Basics](programming-basics/java/java-basics.md)
+  * [Object-Oriented Java](programming-basics/java/object-oriented-java.md)
+  * [Functional Java](programming-basics/java/functional-java.md)
+  * [Data Structures & Algorithms in Java](programming-basics/java/data-structures-and-algorithms-in-java.md)
 
 ## Front-End Programming
 
