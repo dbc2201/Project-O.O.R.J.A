@@ -2,10 +2,17 @@
 
 * [Project-O.O.R.J.A](README.md)
 
-## pre-requisites
+## Basics
 
-* [Git](pre-requisites/git.md)
-* [Software Installation](programming-basics/page-1.md)
+* [Git](basics/git.md)
+* [Software Installation](basics/software-installation/README.md)
+  * [Git](basics/software-installation/git.md)
+  * [IntelliJ IDEA](basics/software-installation/intellij-idea.md)
+  * [Visual Studio Code](basics/software-installation/visual-studio-code.md)
+  * [GitHub](basics/software-installation/github.md)
+  * [Grammarly](basics/software-installation/grammarly.md)
+  * [MySQL](basics/software-installation/mysql.md)
+  * [Node.js](basics/software-installation/node.js.md)
 
 ## programming-basics
 
