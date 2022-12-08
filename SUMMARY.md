@@ -27,9 +27,12 @@
 * [HTML5](front-end-programming/html5.md)
 * [CSS3](front-end-programming/css3.md)
 * [Bootstrap](front-end-programming/bootstrap.md)
-* [JavaScript](front-end-programming/javascript.md)
-* [Node.js](front-end-programming/node.js.md)
-* [TypeScript](front-end-programming/typescript.md)
+* [JavaScript](front-end-programming/javascript/README.md)
+  * [Resources](front-end-programming/javascript/resources.md)
+* [Node.js](front-end-programming/node.js/README.md)
+  * [Resources](front-end-programming/node.js/resources.md)
+* [TypeScript](front-end-programming/typescript/README.md)
+  * [Resources](front-end-programming/typescript/resources.md)
 
 ## Back-End Programming
 
