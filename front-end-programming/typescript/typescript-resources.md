@@ -1,4 +1,4 @@
-# Resources
+# TypeScript - Resources
 
 Build JavaScript applications using TypeScript - Microsoft Learning Path
 

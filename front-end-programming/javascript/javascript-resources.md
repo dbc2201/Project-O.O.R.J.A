@@ -1,4 +1,4 @@
-# Resources
+# JavaScript - Resources
 
 Web Development for Beginners - Microsoft Learning Path
 

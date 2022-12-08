@@ -1,4 +1,4 @@
-# Resources
+# Node.js - Resources
 
 Build JavaScript applications with Node.js - Microsoft Learning Path
 

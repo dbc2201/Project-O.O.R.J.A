@@ -28,11 +28,11 @@
 * [CSS3](front-end-programming/css3.md)
 * [Bootstrap](front-end-programming/bootstrap.md)
 * [JavaScript](front-end-programming/javascript.md)
-  * [Resources](front-end-programming/javascript/resources.md)
+  * [JavaScript - Resources](front-end-programming/javascript/javascript-resources.md)
 * [Node.js](front-end-programming/node.js.md)
-  * [Resources](front-end-programming/node.js/resources.md)
+  * [Node.js - Resources](front-end-programming/node.js/node.js-resources.md)
 * [TypeScript](front-end-programming/typescript.md)
-  * [Resources](front-end-programming/typescript/resources.md)
+  * [TypeScript - Resources](front-end-programming/typescript/typescript-resources.md)
 
 ## Back-End Programming
 
