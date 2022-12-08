@@ -25,7 +25,8 @@
 ## Front-End Programming
 
 * [HTML5](front-end-programming/html5.md)
-* [CSS3](front-end-programming/css3.md)
+* [CSS3](front-end-programming/css3/README.md)
+  * [Resources](front-end-programming/css3/resources.md)
 * [Bootstrap](front-end-programming/bootstrap.md)
 * [JavaScript](front-end-programming/javascript.md)
   * [JavaScript - Resources](front-end-programming/javascript/javascript-resources.md)
