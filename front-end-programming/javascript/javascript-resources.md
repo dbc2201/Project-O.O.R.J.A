@@ -11,3 +11,8 @@ JavaScript for Beginners - Microsoft Developer YouTube Playlist
 {% embed url="https://youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2" %}
 JavaScript for Beginners - Microsoft Developer YouTube Playlist
 {% endembed %}
+
+JavaScript Track on Exercism
+
+{% embed url="https://exercism.org/tracks/javascript" %}
+

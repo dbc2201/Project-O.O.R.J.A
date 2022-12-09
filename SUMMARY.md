@@ -21,12 +21,13 @@
   * [Object-Oriented Java](programming-basics/java/object-oriented-java.md)
   * [Functional Java](programming-basics/java/functional-java.md)
   * [Data Structures & Algorithms in Java](programming-basics/java/data-structures-and-algorithms-in-java.md)
+  * [Java - Resources](programming-basics/java/java-resources.md)
 
 ## Front-End Programming
 
 * [HTML5](front-end-programming/html5.md)
-* [CSS3](front-end-programming/css3/README.md)
-  * [Resources](front-end-programming/css3/resources.md)
+* [CSS3](front-end-programming/css3.md)
+  * [CSS - Resources](front-end-programming/css3/css-resources.md)
 * [Bootstrap](front-end-programming/bootstrap.md)
 * [JavaScript](front-end-programming/javascript.md)
   * [JavaScript - Resources](front-end-programming/javascript/javascript-resources.md)
