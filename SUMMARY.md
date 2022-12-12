@@ -35,6 +35,8 @@
   * [Node.js - Resources](front-end-programming/node.js/node.js-resources.md)
 * [TypeScript](front-end-programming/typescript.md)
   * [TypeScript - Resources](front-end-programming/typescript/typescript-resources.md)
+* [Angular](front-end-programming/angular/README.md)
+  * [Angular - Resources](front-end-programming/angular/angular-resources.md)
 
 ## Back-End Programming
 
