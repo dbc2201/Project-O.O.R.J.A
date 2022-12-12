@@ -11,7 +11,7 @@
 * [ ] Download and install the JetBrains ToolBox app on your Windows 11 computer from the official JetBrains website: [https://www.jetbrains.com/toolbox/app/](https://www.jetbrains.com/toolbox/app/)
 * [ ] Once the ToolBox app is installed, launch it and click on the "IntelliJ IDEA" icon.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 * [ ] Click on the "Install" button to start the installation process for IntelliJ IDEA.
 * [ ] Follow the prompts to complete the installation, including agreeing to the license agreement and choosing the installation location.
