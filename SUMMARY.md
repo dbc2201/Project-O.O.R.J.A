@@ -4,8 +4,7 @@
 
 ## Basics
 
-* [Git](pre-requisites/git.md)
-* [Software Installation](programming-basics/page-1.md)
+* [💻 Software Installation](programming-basics/page-1.md)
   * [Git](basics/software-installation/git.md)
   * [IntelliJ IDEA](basics/software-installation/intellij-idea.md)
   * [Visual Studio Code](basics/software-installation/visual-studio-code.md)
