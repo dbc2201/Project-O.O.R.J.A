@@ -1,5 +1,7 @@
 # Git - Learning Resources
 
+#### Official Git Videos
+
 {% embed url="https://git-scm.com/video/what-is-version-control" %}
 Git Basics Episode 1 - What is Version Control?
 {% endembed %}
@@ -15,3 +17,7 @@ Git Basics Episode 3 - Get Going with Git
 {% embed url="https://git-scm.com/video/quick-wins" %}
 Git Basics Episode 4 - Quick Wins with Git
 {% endembed %}
+
+#### Official Text-Based Tutorial
+
+{% embed url="https://git-scm.com/docs/gittutorial" %}
