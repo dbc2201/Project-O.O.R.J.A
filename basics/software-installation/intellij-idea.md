@@ -1,8 +1,8 @@
 # IntelliJ IDEA
 
-### Official Download Link
+### Official Download Links
 
-{% embed url="https://www.jetbrains.com/toolbox-app/" %}
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Windows 64 Bit</td><td></td><td></td><td><a href="https://www.jetbrains.com/toolbox-app/download/download-thanks.html?platform=windows">https://www.jetbrains.com/toolbox-app/download/download-thanks.html?platform=windows</a></td></tr><tr><td>Linux 64 Bit</td><td></td><td></td><td><a href="https://www.jetbrains.com/toolbox-app/download/download-thanks.html?platform=linux">https://www.jetbrains.com/toolbox-app/download/download-thanks.html?platform=linux</a></td></tr><tr><td>macOS 64 Bit (Intel)</td><td></td><td></td><td><a href="https://www.jetbrains.com/toolbox-app/download/download-thanks.html?platform=mac">https://www.jetbrains.com/toolbox-app/download/download-thanks.html?platform=mac</a></td></tr><tr><td>masOS 64 Bit (Apple Silicon)</td><td></td><td></td><td><a href="https://www.jetbrains.com/toolbox-app/download/download-thanks.html?platform=macM1">https://www.jetbrains.com/toolbox-app/download/download-thanks.html?platform=macM1</a></td></tr></tbody></table>
 
 ## Installation Steps
 
