@@ -5,7 +5,7 @@
 ## Basics
 
 * [💻 Software Installation](programming-basics/page-1.md)
-  * [Git](basics/software-installation/git/README.md)
+  * [Git](basics/software-installation/git.md)
     * [Git - Learning Resources](basics/software-installation/git/git-learning-resources.md)
   * [IntelliJ IDEA](basics/software-installation/intellij-idea.md)
   * [Visual Studio Code](basics/software-installation/visual-studio-code.md)
