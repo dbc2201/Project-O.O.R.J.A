@@ -14,7 +14,7 @@
   * [Grammarly](basics/software-installation/grammarly.md)
   * [MySQL](basics/software-installation/mysql.md)
   * [Node.js](basics/software-installation/node.js.md)
-  * [Page 2](basics/software-installation/page-2.md)
+  * [Angular](basics/software-installation/angular.md)
 
 ## programming-basics
 
