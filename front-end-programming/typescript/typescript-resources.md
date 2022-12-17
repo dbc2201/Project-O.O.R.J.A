@@ -12,6 +12,10 @@ TypeScript Core Concepts - Microsoft 365 Developer YouTube Playlist
 TypeScript Core Concepts - Microsoft 365 Developer YouTube Playlist
 {% endembed %}
 
+{% embed url="https://youtu.be/YmxwicpROps" %}
+TypeScript Speedrun: Crash Course for Beginners
+{% endembed %}
+
 TypeScript Track on Exercism
 
 {% embed url="https://exercism.org/tracks/typescript" %}
