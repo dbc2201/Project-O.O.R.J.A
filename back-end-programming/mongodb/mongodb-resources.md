@@ -14,6 +14,14 @@ description: >-
 
 {% embed url="https://www.youtube.com/@MongoDB" %}
 
+### The Little Book of MongoDB
+
+{% embed url="https://mongodb-devhub-cms.s3.us-west-1.amazonaws.com/The_Little_Book_of_Mongo_DB_97dbc9a8fe.pdf" %}
+
+### The MongoDB CheatSheet
+
+{% embed url="https://mongodb-devhub-cms.s3.us-west-1.amazonaws.com/Mongo_DB_Shell_Cheat_Sheet_1a0e3aa962.pdf" %}
+
 ### MongoDB 101: Non-Relational for Beginners Slide Deck by MongoDB
 
 {% embed url="https://docs.google.com/presentation/d/1b_4GoeSsdtL-B4Qvm6Bo1Ml9G4IIEkRxbZq4Wa6f7O4/edit?usp=sharing" %}
@@ -69,3 +77,7 @@ description: >-
 ### Build A REST API With Node.js, Express, & MongoDB - Quick by Web Dev Simplified on YouTube
 
 {% embed url="https://youtu.be/fgTGADljAeg" %}
+
+### MongoDB Projects on GitHub
+
+{% embed url="https://www.mongodb.com/developer/search/" %}
