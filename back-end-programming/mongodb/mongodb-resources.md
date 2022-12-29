@@ -1,4 +1,14 @@
+---
+description: >-
+  MongoDB Database Skills (Sia Cheap Thrills Parody) -
+  https://youtu.be/0vPt7GI-2kc
+---
+
 # MongoDB - Resources
+
+### MongoDB Java Developer Path by MongoDB University
+
+{% embed url="https://learn.mongodb.com/learn/learning-path/mongodb-java-developer-path" %}
 
 ### 7 Database Paradigms by FireShip on YouTube
 
@@ -15,3 +25,24 @@
 ### MongoDB Jumpstart Full Playlist on YouTube
 
 {% embed url="https://youtube.com/playlist?list=PL4RCxklHWZ9v2lcat4oEVGQhZg6r4IQGV" %}
+
+### What is MongoDB? by IBM Technology on YouTube
+
+{% embed url="https://youtu.be/VOLeKvNz-Zo" %}
+
+### MongoDB in 5 Minutes with Eliot Horowitz
+
+{% embed url="https://youtu.be/EE8ZTQxa0AM" %}
+
+### Data Modeling with MongoDB
+
+{% embed url="https://youtu.be/3GHZd0zv170" %}
+
+### A Complete Methodology of Data Modeling for MongoDB
+
+{% embed url="https://youtu.be/DUCvYbcgGsQ" %}
+
+### Schema Design Anti-Patterns Series
+
+{% embed url="https://youtube.com/playlist?list=PL4RCxklHWZ9uluV0YBxeuwpEa0FWdmCRy" %}
+
