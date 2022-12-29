@@ -14,6 +14,10 @@ description: >-
 
 {% embed url="https://www.youtube.com/@MongoDB" %}
 
+### MongoDB 101: Non-Relational for Beginners Slide Deck by MongoDB
+
+{% embed url="https://docs.google.com/presentation/d/1b_4GoeSsdtL-B4Qvm6Bo1Ml9G4IIEkRxbZq4Wa6f7O4/edit?usp=sharing" %}
+
 ### 7 Database Paradigms by FireShip on YouTube
 
 {% embed url="https://youtu.be/W2Z7fbCLSTw" %}
