@@ -10,9 +10,17 @@ description: >-
 
 {% embed url="https://learn.mongodb.com/learn/learning-path/mongodb-java-developer-path" %}
 
+### MongoDB's Official YouTube Channel
+
+{% embed url="https://www.youtube.com/@MongoDB" %}
+
 ### 7 Database Paradigms by FireShip on YouTube
 
 {% embed url="https://youtu.be/W2Z7fbCLSTw" %}
+
+### MySQL vs MongoDB by IBM Technology on YouTube
+
+{% embed url="https://youtu.be/OdgZ0jr4jpM" %}
 
 ### MongoDB in 100 Seconds by Fireship on YouTube
 
@@ -34,6 +42,14 @@ description: >-
 
 {% embed url="https://youtu.be/EE8ZTQxa0AM" %}
 
+### Compass - The GUI For MongoDB in 10 mins | Jumpstart
+
+{% embed url="https://youtu.be/YBOiX8DwinE" %}
+
+### Quick Starts & Tutorials Playlist by MongoDB on YouTube
+
+{% embed url="https://youtube.com/playlist?list=PL4RCxklHWZ9sLmYcronGcCu6HOYCPEcAF" %}
+
 ### Data Modeling with MongoDB
 
 {% embed url="https://youtu.be/3GHZd0zv170" %}
@@ -46,3 +62,8 @@ description: >-
 
 {% embed url="https://youtube.com/playlist?list=PL4RCxklHWZ9uluV0YBxeuwpEa0FWdmCRy" %}
 
+### Build A REST API With Node.js, Express, & MongoDB - Quick by Web Dev Simplified on YouTube
+
+{% embed url="https://youtu.be/fgTGADljAeg" %}
+
+{% embed url="https://youtu.be/fgTGADljAeg" %}
