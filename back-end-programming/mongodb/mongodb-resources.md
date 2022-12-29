@@ -65,5 +65,3 @@ description: >-
 ### Build A REST API With Node.js, Express, & MongoDB - Quick by Web Dev Simplified on YouTube
 
 {% embed url="https://youtu.be/fgTGADljAeg" %}
-
-{% embed url="https://youtu.be/fgTGADljAeg" %}
