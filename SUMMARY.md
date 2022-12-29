@@ -42,7 +42,8 @@
 
 ## Back-End Programming
 
-* [Spring Boot](back-end-programming/spring-boot.md)
+* [Spring Boot](back-end-programming/spring-boot/README.md)
+  * [Spring Boot - Resources](back-end-programming/spring-boot/spring-boot-resources.md)
 * [MongoDB](back-end-programming/mongodb/README.md)
   * [MongoDB - Resources](back-end-programming/mongodb/mongodb-resources.md)
 

@@ -26,14 +26,6 @@ Git Basics Episode 4 - Quick Wins with Git
 
 {% embed url="https://player.vimeo.com/video/41516942" %}
 
-{% embed url="https://youtube.com/playlist?list=PL0lo9MOBetEHhfG9vJzVCTiDYcbhAiEqL" %}
-Training • GitHub and Git Foundations
-{% endembed %}
-
-{% embed url="https://youtu.be/pBy1zgt0XPc" %}
-What is GitHub?
-{% endembed %}
-
 #### Official Text-Based Tutorial
 
 {% embed url="https://git-scm.com/docs/gittutorial" %}
